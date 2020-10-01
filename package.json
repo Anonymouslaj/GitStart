@@ -1,7 +1,7 @@
 {
-  "name": "GitStart",
-  "description": "GitStart",
-  "version": "1.0.0",
+  "name": "Gitstart",
+  "description": "Gitstart",
+  "version": "1.0",
   "author": "Rishabh Bansal <rishabhbansal1855@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.277",
